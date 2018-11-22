@@ -23,5 +23,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Learning-Fuze/practicePortfolio.git"
+  },
+  "dependencies": {
+    "@sendgrid/mail": "^6.3.1",
+    "express": "^4.16.4"
   }
 }
